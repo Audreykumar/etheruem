@@ -1,0 +1,13 @@
+You can uninstall at any time with "rustup self uninstall" and these changes will
+be reverted.
+
+
+To get started you need Cargo's bin directory ($HOME/.cargo/bin) in your PATH 
+environment variable. Next time you log in this will be done automatically.
+
+To configure your current shell run source $HOME/.cargo/env
+
+
+
+
+https://www.fastcompany.com/3034803/templates-and-hints-for-the-perfect-email-for-almost-every-situation
